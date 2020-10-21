@@ -9,6 +9,7 @@ verify_ssl = true
 tensorflow = "*"
 jupyterlab = "*"
 matplotlib = "*"
+tensorflow-probability = "*"
 
 [requires]
 python_version = "3.6"
